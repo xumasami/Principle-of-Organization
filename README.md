@@ -1,1 +1,2 @@
-# Principle-of-Organization
+# 你好！
+这是我的关于计算机组成原理的学习笔记 :smile:
